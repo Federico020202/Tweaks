@@ -1,0 +1,1 @@
+You can use it only if you paste the keyword on a page named keyword.html
